@@ -3,7 +3,7 @@ Hello! I'm Ilya Nikolaev, a Python Back-End Developer with a passion for program
 
 ## Programming Skills
 ![Codewars](https://www.codewars.com/users/ilya-nikolaev/badges/large)
-- Languages: Python and C
+- Languages: Python, C and JS
 - Graduated from the Yandex Lyceum (2019-2021)
 - Python Back-End Developer since Nov, 2021
 
