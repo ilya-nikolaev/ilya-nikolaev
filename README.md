@@ -17,8 +17,7 @@ Hello! I'm Ilya Nikolaev, a Python Back-End Developer with a passion for program
 ## Language Skills
 - Russian: Native
 - English: Upper-Intermediate (B2)
-- Deutsch: Beginner (A1+)
-- Chinese: Currently Learning
+- Deutsch: Pre-Intermediate (A2)
 
 ## Contacts
 - [Telegram](https://t.me/rnurnu)
