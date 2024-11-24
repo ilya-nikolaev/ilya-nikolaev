@@ -1,5 +1,5 @@
 # Who I am
-Hello! I'm Ilya Nikolaev, a Python Back-End Developer with a passion for programming and chess.
+Hi, I'm Ilya Nikolaev, a Python Back-End Developer with a passion for programming and chess.
 
 ## Programming Skills
 ![Codewars](https://www.codewars.com/users/ilya-nikolaev/badges/large)
@@ -8,15 +8,21 @@ Hello! I'm Ilya Nikolaev, a Python Back-End Developer with a passion for program
 - Python Back-End Developer since Nov, 2021
 
 ## Chess Profile
-- Elo: 1800-1900 on lichess
-- Favorite openings: Ruy Lopez and Smith-Morra Gambit
+- Elo: 1800-1900 on lichess, 1500-1600 on chess.com
+- Favorite openings:
+    + English Opening
+    + Sicilian Defense: Alapin Variation
+    + Sicilian Defense: Smith-Morra Gambit
+    + Ruy Lopez
+    + French Defence
+    + Sicilian Defence: Accelerated Dragon
 - Links
-  - [Lichess](https://lichess.org/@/yuzelesss)
-  - [Chess.com](https://www.chess.com/member/yuzelezzz)
- 
+    + [Lichess](https://lichess.org/@/yuzelesss)
+    + [Chess.com](https://www.chess.com/member/yuzelezzz)
+
 ## Language Skills
 - Русский (Russian): Native
-- English: Upper-Intermediate (B1-B2)
+- English: Intermediate (B1-B2)
 - Deutsch (German): Pre-Intermediate (A2-B1)
 
 ## Contacts
