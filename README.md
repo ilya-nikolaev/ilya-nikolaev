@@ -15,9 +15,9 @@ Hello! I'm Ilya Nikolaev, a Python Back-End Developer with a passion for program
   - [Chess.com](https://www.chess.com/member/yuzelezzz)
  
 ## Language Skills
-- Russian: Native
-- English: Upper-Intermediate (B2)
-- Deutsch: Pre-Intermediate (A2)
+- Русский (Russian): Native
+- English: Upper-Intermediate (B1-B2)
+- Deutsch (German): Pre-Intermediate (A2-B1)
 
 ## Contacts
 - [Telegram](https://t.me/rnurnu)
