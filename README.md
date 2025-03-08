@@ -14,8 +14,8 @@ Hi, I'm Ilya Nikolaev, a Python Back-End Developer with a passion for programmin
     + Ruy Lopez
     + Sicilian Defence
 - Links
-    + [Lichess](https://lichess.org/@/yuzelesss)
-    + [Chess.com](https://www.chess.com/member/yuzelezzz)
+    + Lichess - [yuzelesss](https://lichess.org/@/yuzelesss)
+    + Chess.com - [yuzelezzz](https://www.chess.com/member/yuzelezzz)
 
 ## Language Skills
 - Русский (Russian): Native
