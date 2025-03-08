@@ -3,27 +3,25 @@ Hi, I'm Ilya Nikolaev, a Python Back-End Developer with a passion for programmin
 
 ## Programming Skills
 ![Codewars](https://www.codewars.com/users/ilya-nikolaev/badges/large)
-- Languages: Python, C and JS
+- Languages: Python 3, C and JS/TS
 - Graduated from the Yandex Lyceum (2019-2021)
 - Python Back-End Developer since Nov, 2021
 
 ## Chess Profile
-- Elo: 1800-1900 on lichess, 1500-1600 on chess.com
+- Elo: 1900 on lichess, 1600 on chess.com
 - Favorite openings:
     + English Opening
-    + Sicilian Defense: Alapin Variation
-    + Sicilian Defense: Smith-Morra Gambit
     + Ruy Lopez
-    + French Defence
-    + Sicilian Defence: Accelerated Dragon
+    + Sicilian Defence
 - Links
     + [Lichess](https://lichess.org/@/yuzelesss)
     + [Chess.com](https://www.chess.com/member/yuzelezzz)
 
 ## Language Skills
 - Русский (Russian): Native
-- English: Intermediate (B1-B2)
-- Deutsch (German): Pre-Intermediate (A2-B1)
+- English: Intermediate (B2)
+- Deutsch (German): Pre-Intermediate (B1)
 
 ## Contacts
-- [Telegram](https://t.me/rnurnu)
+- Telegram: [@rnurnu](https://t.me/rnurnu)
+- Email: [ilyanikolaev28@inbox.ru](mailto:ilyanikolaev28@inbox.ru)
