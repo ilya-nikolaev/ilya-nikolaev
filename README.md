@@ -1,11 +1,18 @@
 # Who I am
+
 Hi, I'm Ilya Nikolaev, a Python Back-End Developer with a passion for programming and chess.
 
+
 ## Programming Skills
+
 ![Codewars](https://www.codewars.com/users/ilya-nikolaev/badges/large)
-- Languages: Python 3, C and JS/TS
+
+![LeetCode](https://leetcode-badge-sage.vercel.app/badge/ilya-nikolaev?theme=dark)
+
+- Languages: Python, C and JS/TS
 - Graduated from the Yandex Lyceum (2019-2021)
 - Python Back-End Developer since Nov, 2021
+
 
 ## Chess Profile
 - Elo: 1900 on lichess, 1600 on chess.com
@@ -17,10 +24,12 @@ Hi, I'm Ilya Nikolaev, a Python Back-End Developer with a passion for programmin
     + Lichess - [yuzelesss](https://lichess.org/@/yuzelesss)
     + Chess.com - [yuzelezzz](https://www.chess.com/member/yuzelezzz)
 
+
 ## Language Skills
 - Русский (Russian): Native
 - English: Intermediate (B2)
 - Deutsch (German): Pre-Intermediate (B1)
+
 
 ## Contacts
 - Telegram: [@rnurnu](https://t.me/rnurnu)
