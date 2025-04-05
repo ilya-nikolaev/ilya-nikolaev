@@ -10,7 +10,7 @@ Hi, I'm Ilya Nikolaev, a Python Back-End Developer with a passion for programmin
 ![LeetCode](https://leetcode-badge-sage.vercel.app/badge/ilya-nikolaev?theme=dark)
 
 - Languages: Python, C and JS/TS
-- Graduated from the Yandex Lyceum (2019-2021)
+- Graduated from the Yandex Lyceum (2018, 2019)
 - Python Back-End Developer since Nov, 2021
 
 
