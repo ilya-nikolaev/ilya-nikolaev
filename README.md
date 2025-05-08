@@ -7,7 +7,7 @@ Hi, I'm Ilya Nikolaev, a Python Back-End Developer with a passion for programmin
 
 ![Codewars](https://www.codewars.com/users/ilya-nikolaev/badges/large)
 
-![LeetCode](https://badges.rnurnu.ru/leetcode/40/ilya-nikolaev)
+![LeetCode](https://badges.rnurnu.ru/leetcode/40/ilya-nikolaev?v=2)
 
 - Languages: Python, C and JS/TS
 - Graduated from the Yandex Lyceum (2018, 2019)
