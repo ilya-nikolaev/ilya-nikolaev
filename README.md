@@ -5,13 +5,16 @@ Hi, I'm Ilya Nikolaev, a Python Back-End Developer with a passion for programmin
 
 ## Programming Skills
 
-![Codewars](https://www.codewars.com/users/ilya-nikolaev/badges/large)
-
-![LeetCode](https://badges.rnurnu.ru/leetcode/40/ilya-nikolaev?v=2)
-
+### Tech Stack & Background
 - Languages: Python, C and JS/TS
 - Graduated from the Yandex Lyceum (2018, 2019)
 - Python Back-End Developer since Nov, 2021
+
+### [Codewars](https://www.codewars.com/users/ilya-nikolaev)
+![Codewars](https://www.codewars.com/users/ilya-nikolaev/badges/large)
+
+### [LeetCode](https://leetcode.com/u/ilya-nikolaev)
+![LeetCode](https://badges.rnurnu.ru/leetcode/40/ilya-nikolaev?v=2)
 
 
 ## Chess Profile
